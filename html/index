@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../src/output.css">
+</head>
+<body class="">
+    <div class="bg-[#181451] flex items-center justify-between h-20 px-8">
+
+        <div  >
+            <img src="logo.png" alt="" class="[w-100px]"></div>
+            <a href="">
+                <p class="text-white rounded-lg py-7 px-10 bg-[#FF6A16]"> <strong class="text-black">+</strong> Add todo</p>
+            </a>
+    </div>
+
+</body>
+</html>
